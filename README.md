@@ -5,6 +5,7 @@ Dependencies:
 - Python 3.1.7
 - Django Latest
 - venv
+
 Usage Guide:
 - install python
 - install Django
