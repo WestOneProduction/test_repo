@@ -14,6 +14,8 @@ Configuration:
 -config.file
 
 Contributing guidelines:
+- 
+-
 credits:
 - Bolaji Ogunyemi
 - West One
@@ -21,4 +23,8 @@ License:
 - Copyright
 - Trademark
 FAQ:
+-
+-
+-
 Contact Support
+-0788899123
